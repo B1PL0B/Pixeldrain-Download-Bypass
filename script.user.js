@@ -5,6 +5,7 @@
 // @description  Download pixeldrain file without any limitation.
 // @author       BIPLOB
 // @match        https://pixeldrain.com/u/*
+// @icon         https://i.postimg.cc/JnFbhBKS/download.png
 // @grant        none
 // @run-at       document-start
 // @updateURL    https://update.greasyfork.org/scripts/542461/Pixeldrain%20Download%20Bypass.user.js
