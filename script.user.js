@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Pixeldrain Download Bypass
 // @namespace    http://tampermonkey.net/
-// @version      1.0.3
+// @version      1.0.4
 // @description  Download pixeldrain file without any limitation.
 // @author       BIPLOB
 // @match        https://pixeldrain.com/u/*
